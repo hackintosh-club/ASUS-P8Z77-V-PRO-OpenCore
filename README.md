@@ -1,5 +1,4 @@
-# ASUS-P8Z77-V-PRO-OpenCore
-ASUS P8Z77-V PRO Hackintosh OpenCore
+# ASUS-P8Z77-V-PRO Hackintosh OpenCore EFI
 
 ### OpenCore
 
@@ -9,3 +8,17 @@ ASUS P8Z77-V PRO Hackintosh OpenCore
 
 - macOS Catalina 10.15.x
 
+### Hardware
+
+- CPU: i7-3770k (3rd Gen) Ivy Bridge
+- GPU: Intel HD Graphic 4000
+- RAM: 32GB DDR3
+- Motherboard: Asus P8Z77-V LX
+- Audio: Realtek ALC892
+- Ethernet Card: Intel 82579V
+- Wifi Card: BCM94360CD
+
+### Notes
+ - ACPI - SSDT-PM.aml
+ - if you have different cpu (like i5 3570k)，you need to see this and build your own SSDT-PM[Sandy and Ivy Bridge Power Management](https://dortania.github.io/OpenCore-Post-Install/universal/pm.html#sandy-and-ivy-bridge-power-management)  
+ - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your own SMBIOS
