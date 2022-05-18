@@ -10,13 +10,13 @@
 
 ### 硬件
 
-- CPU: i7-3770k (3rd Gen) Ivy Bridge
-- GPU: Intel HD Graphic 4000
-- RAM: 32GB DDR3
-- Motherboard: Asus P8Z77-V-PRO
-- Audio: Realtek ALC892
-- Ethernet Card: Intel 82579V
-- Wifi Card: BCM94360CD
+- CPU: i7-3770k (3代) Ivy Bridge
+- 显卡: Intel HD Graphic 4000
+- 内存: 32GB DDR3
+- 主板: Asus P8Z77-V-PRO
+- 声卡: Realtek ALC892
+- 网卡: Intel 82579V
+- 无线: BCM94360CD
 
 ### 注意事项
  - ACPI - SSDT-PM.aml
