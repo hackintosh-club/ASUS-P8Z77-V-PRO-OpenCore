@@ -15,7 +15,7 @@
 - CPU: i7-3770k (3rd Gen) Ivy Bridge
 - GPU: Intel HD Graphic 4000
 - RAM: 32GB DDR3
-- Motherboard: Asus P8Z77-V LX
+- Motherboard: Asus P8Z77-V-PRO
 - Audio: Realtek ALC892
 - Ethernet Card: Intel 82579V
 - Wifi Card: BCM94360CD
