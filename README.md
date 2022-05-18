@@ -27,9 +27,6 @@
  
 ### ScreenShot 
 ![image](https://github.com/Hackintosh-EFI-R/ASUS-P8Z77-V-PRO-OpenCore/blob/main/ScreenShot/01.png)
-
 ![image](https://github.com/Hackintosh-EFI-R/ASUS-P8Z77-V-PRO-OpenCore/blob/main/ScreenShot/02.png)
-
 ![image](https://github.com/Hackintosh-EFI-R/ASUS-P8Z77-V-PRO-OpenCore/blob/main/ScreenShot/03.png)
-
 ![image](https://github.com/Hackintosh-EFI-R/ASUS-P8Z77-V-PRO-OpenCore/blob/main/ScreenShot/04.png)
