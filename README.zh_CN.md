@@ -7,6 +7,7 @@
 ### 可安装系统
 
 - macOS Catalina 10.15.x
+- macOS Monterey 12.x
 
 ### 硬件
 
