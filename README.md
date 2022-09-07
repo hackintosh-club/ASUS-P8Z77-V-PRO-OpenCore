@@ -10,7 +10,6 @@
 
 - macOS Catalina 10.15.x
 - macOS Monterey 12.x
-- macOS Ventura 13 (Not tested)
 
 ### Hardware
 

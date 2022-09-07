@@ -8,7 +8,6 @@
 
 - macOS Catalina 10.15.x
 - macOS Monterey 12.x
-- macOS Vertura 13 (未测试)
 
 ### 硬件
 
