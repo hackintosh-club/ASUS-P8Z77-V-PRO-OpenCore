@@ -2,12 +2,13 @@
 
 ### OpenCore
 
-[OpenCore 0.8.0](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.8.4](https://github.com/acidanthera/OpenCorePkg)
 
 ### 可安装系统
 
 - macOS Catalina 10.15.x
 - macOS Monterey 12.x
+- macOS Vertura 13 (未测试)
 
 ### 硬件
 
