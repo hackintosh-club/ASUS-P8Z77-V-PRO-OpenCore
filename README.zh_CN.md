@@ -2,9 +2,11 @@
 
 ![image](ScreenShot/P8Z77VPRO.png)
 
+### [English](https://github.com/hackintosh-efi/ASUS-P8Z77-V-PRO-OpenCore)
+
 ### OpenCore
 
-[OpenCore 0.8.4](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
 
 ### 可安装系统
 
