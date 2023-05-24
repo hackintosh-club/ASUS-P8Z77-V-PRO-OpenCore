@@ -1,10 +1,12 @@
 # ASUS-P8Z77-V-PRO Hackintosh OpenCore EFI
 
+![image](ScreenShot/P8Z77VPRO.png)
+
 ### [简体中文](README.zh_CN.md)
 
 ### OpenCore
 
-[OpenCore 0.8.4](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
@@ -23,10 +25,18 @@
 
 ### Notes
  - ACPI - SSDT-PM.aml
- - if you have different cpu (like i5 3570k)，you need to see this and build your own SSDT-PM [Sandy and Ivy Bridge Power Management](https://dortania.github.io/OpenCore-Post-Install/universal/pm.html#sandy-and-ivy-bridge-power-management)  
- - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your own SMBIOS
+ - if you have different cpu (like i5 3570k)，you need to see this and build your SSDT-PM [Sandy and Ivy Bridge Power Management](https://dortania.github.io/OpenCore-Post-Install/universal/pm.html#sandy-and-ivy-bridge-power-management)  
+ - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
  
 ### ScreenShot 
-![image](https://github.com/Hackintosh-EFI-R/ASUS-P8Z77-V-PRO-OpenCore/blob/main/ScreenShot/01.png)![image](https://github.com/Hackintosh-EFI-R/ASUS-P8Z77-V-PRO-OpenCore/blob/main/ScreenShot/02.png)
-![image](https://github.com/Hackintosh-EFI-R/ASUS-P8Z77-V-PRO-OpenCore/blob/main/ScreenShot/03.png)
-![image](https://github.com/Hackintosh-EFI-R/ASUS-P8Z77-V-PRO-OpenCore/blob/main/ScreenShot/04.png)
+![image](ScreenShot/01.png)
+![image](ScreenShot/02.png)
+![image](ScreenShot/03.png)
+![image](ScreenShot/04.png)
+
+
+### Contact Us 
+
+- QQ Group: 23304408
+
+![image](ScreenShot/QRCode.png)

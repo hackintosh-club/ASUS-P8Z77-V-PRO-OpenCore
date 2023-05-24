@@ -1,5 +1,7 @@
 # ASUS-P8Z77-V-PRO 黑苹果 OpenCore EFI
 
+![image](ScreenShot/P8Z77VPRO.png)
+
 ### OpenCore
 
 [OpenCore 0.8.4](https://github.com/acidanthera/OpenCorePkg)
@@ -25,7 +27,14 @@
  - 使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 生成 SMBIOS
  
 ### 系统截图
-![image](https://github.com/Hackintosh-EFI-R/ASUS-P8Z77-V-PRO-OpenCore/blob/main/ScreenShot/01.png)
-![image](https://github.com/Hackintosh-EFI-R/ASUS-P8Z77-V-PRO-OpenCore/blob/main/ScreenShot/02.png)
-![image](https://github.com/Hackintosh-EFI-R/ASUS-P8Z77-V-PRO-OpenCore/blob/main/ScreenShot/03.png)
-![image](https://github.com/Hackintosh-EFI-R/ASUS-P8Z77-V-PRO-OpenCore/blob/main/ScreenShot/04.png)
+![image](ScreenShot/01.png)
+![image](ScreenShot/02.png)
+![image](ScreenShot/03.png)
+![image](ScreenShot/04.png)
+
+
+### 联系我们 
+
+- QQ群: 23304408
+
+![image](ScreenShot/QRCode.png)
