@@ -6,7 +6,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
@@ -27,7 +27,7 @@
  - ACPI - SSDT-PM.aml
  - if you have different cpu (like i5 3570k)，you need to see this and build your SSDT-PM [Sandy and Ivy Bridge Power Management](https://dortania.github.io/OpenCore-Post-Install/universal/pm.html#sandy-and-ivy-bridge-power-management)  
  - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
- 
+
 ### ScreenShot 
 ![image](ScreenShot/01.png)
 ![image](ScreenShot/02.png)
